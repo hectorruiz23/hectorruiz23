@@ -6,7 +6,7 @@ Seven years of backend: SCADA at scale, and a legacy VB/SQL Server product migra
 
 **[Mise](https://github.com/hectorruiz23/mise)** — task board where a human and AI agents share the work. Go, SQLite, one binary. [demo](https://mise.hectorruiz.dev)
 
-**[Refire](https://github.com/hectorruiz23/refire)** — spoken English practice with your own models. Python.
+**[Refire](https://github.com/hectorruiz23/refire)** — spoken English practice with your own models. Python. Runs locally, no hosted demo.
 
 C# · SQL · Python · Go · Azure · DDD · TDD
 
