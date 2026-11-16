@@ -16,10 +16,10 @@ Busco un puesto de ingeniería de software en una empresa de producto o en una s
 
 ## Con lo que trabajo
 
-**Lenguajes** C# y .NET · SQL · Python · Go, aprendiendo
-**Datos** SQL Server · MySQL · InfluxDB · Power BI y DAX
-**Arquitectura** Hexagonal y Clean · DDD y CQRS · Eventos de dominio · TDD y BDD
-**Plataforma** Azure (Blob, Functions, Data Factory) · CI/CD · SonarQube · SCADA con WinCC OA
+- **Lenguajes** — C# y .NET · SQL · Python · Go, aprendiendo
+- **Datos** — SQL Server · MySQL · InfluxDB · Power BI y DAX
+- **Arquitectura** — Hexagonal y Clean · DDD y CQRS · Eventos de dominio · TDD y BDD
+- **Plataforma** — Azure (Blob, Functions, Data Factory) · CI/CD · SonarQube · SCADA con WinCC OA
 
 ## Dónde
 
